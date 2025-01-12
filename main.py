@@ -6,7 +6,7 @@ from buttons import (start_button, english_buttons, uzbek_lit, world_lit,
 
 
 
-BOT_TOKEN = "8085275156:AAGdOn3A2MEVsHPMh-t_9liKRMEJTulLSxU"
+BOT_TOKEN = "YOUR_TOKEN"
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(bot)
 
